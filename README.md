@@ -5,11 +5,17 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Java+Backend+Developer..&hearts;++;Estudiante+de+Cloud+Computing"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=¡+Java+Backend+Developer+!++;&hearts;+Amante+del+Testing+&hearts;"></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi...
 <br>
+🖥️Técnico Superior en Programación <br>
+🧑‍🎓Estudiante de Cloud Administration <br>
+🚀Especializado en Backend con foco en pruebas unitarias y de integración<br>
+🧠Junit5 + Mockito + Testcontainers + DB Rider + JaCoCo<br>
+📚SOLID, FIRST, TDD
+
 
 #### ☕️Lenguajes:
   <p style="text-align: left;">
