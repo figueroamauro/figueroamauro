@@ -12,7 +12,7 @@
 <br>
 🖥️Técnico Superior en Programación <br>
 🧑‍🎓Estudiante de Cloud Administration <br>
-🚀Especializado en Backend con foco en pruebas unitarias y de integración<br>
+🚀Especializado en Backend orientado a pruebas unitarias y de integración<br>
 🧠Junit5 + Mockito + Testcontainers + DB Rider + JaCoCo<br>
 📚SOLID, FIRST, TDD
 
