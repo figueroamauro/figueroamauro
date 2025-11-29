@@ -1,6 +1,6 @@
 
 ## <p align="center" >Hola, bienvenid@ a mi perfil de GitHub <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
-![image](https://media.licdn.com/dms/image/v2/D4D16AQEHF0GCj_4hkg/profile-displaybackgroundimage-shrink_350_1400/B4DZW59siSHwAc-/0/1742581719900?e=1747872000&v=beta&t=WWNlRkh-Gnxaqh-rT3m6m_IicGQPS-b6cFJF-bjzQ6M)
+![image](https://media.licdn.com/dms/image/v2/D4D16AQFjwrF1DrpuUg/profile-displaybackgroundimage-shrink_350_1400/B4DZrQg6POGwAY-/0/1764434880071?e=1766016000&v=beta&t=MrY534Deud4u5cNMqTwMp7JWr-7J27eMrItG8pia3CY)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
